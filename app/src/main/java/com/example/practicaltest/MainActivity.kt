@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
                 if(selectedRadioid == binding.radioButtonFemale.getId())
                     binding.imageView.setImageResource(R.drawable.stelle2)
 
-
+                    //Test
 
                 binding.imageView.isVisible = true
 
