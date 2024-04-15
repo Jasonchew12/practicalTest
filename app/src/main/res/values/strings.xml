@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">practicalTest</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male\n</string>
+    <string name="female">Female\n</string>
+    <string name="num1">Number 1</string>
+    <string name="num2">Number 2</string>
+    <string name="add">Add</string>
+    <string name="minus">Minus</string>
+    <string name="multiple">Multiple</string>
+    <string name="divide">Division</string>
+    <string-array name="foodList">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Stir-Fry Maggi</item>
+        <item>Fried Chicken</item>
+        <item>Cheezy Wedge</item>
+    </string-array>
+</resources>
