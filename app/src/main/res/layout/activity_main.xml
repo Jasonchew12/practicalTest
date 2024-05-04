@@ -109,7 +109,7 @@
         android:layout_marginStart="8dp"
         android:ems="10"
         android:hint="@string/num2"
-        android:inputType="number"
+        android:inputType="text"
         app:layout_constraintBottom_toBottomOf="@+id/textView2"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toTopOf="@+id/textView2" />
